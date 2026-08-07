@@ -23,7 +23,7 @@ Each match updates the team's trend according to three simple rules:
 
 - 🟢 Win → Trend moves upward
 - 🔴 Loss → Trend moves downward
-- ⚪ Draw → Trend remains unchanged
+- 🔴 Draw → Trend remains unchanged
 
 By plotting these movements throughout the season, consistent performance patterns become easier to observe.
 
