@@ -17,7 +17,7 @@ The objective is not to predict individual match results, but to investigate whe
 
 ## The Idea
 
-Instead of looking at points tables alone, this project transforms match outcomes into a simplified momentum visualization inspired by financial trading charts.
+Instead of looking at points tables alone, this project transforms match outcomes into a simplified momentum visualization inspired by financial trading charts, why financial trading charts? well my trading background maybe a factor but also i found it rather helpful in pattern discovery maybe my eyes got the hang of seeing patterns in colour as them chart show.
 
 Each match updates the team's trend according to three simple rules:
 
@@ -82,7 +82,7 @@ Football-data-analysis/
 
 ## Challenges
 
-The biggest challenge during development was not writing the analysis code—it was obtaining and preparing consistent historical football data.
+The biggest challenge during development was not writing the analysis code it was obtaining and preparing consistent historical football data.
 
 Another interesting challenge was designing a visualization that behaves more like a financial trading chart than a traditional football statistics graph.
 
@@ -102,12 +102,13 @@ Future work includes:
 - interactive dashboards
 - probability scoring
 - machine learning experiments
+- most importantly predicting likely events in a match for example, the over , under metric for cards, fouls, corners, etc
 
 ---
 
 ## Future Vision
 
-The long-term goal is to transform this exploratory notebook into a more complete football analytics tool capable of highlighting teams exhibiting strong momentum characteristics throughout a season.
+The long-term goal is to transform this exploratory notebook into a more complete football analytics tool capable of highlighting teams exhibiting strong momentum characteristics throughout a season with not just wins but across several other metricses.
 
 If the observed patterns continue to hold across larger datasets, the project may evolve into a useful decision-support system for football analysts and betting enthusiasts.
 
@@ -123,9 +124,9 @@ The analysis represents an exploratory hypothesis and should not be considered f
 
 ## Author
 
-Built by **Yubin Solii**
+Built by **YUBIN NYUYFONI ARSENE SOLII**
 
-Aspiring Web3 Builder | Software Engineer | Data Enthusiast
+Aspiring Web3 Builder | Software Engineer | Data Enthusiast | Security specialist
 
 Always interested in solving problems through software and data.
 #this is just for the trend movements and patterns in football
