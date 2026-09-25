@@ -130,4 +130,4 @@ Aspiring Web3 Builder | Software Engineer | Data Enthusiast | Security specialis
 
 Always interested in solving problems through software and data.
 #this is just for the trend movements and patterns in football
-so if you want to verify or get the dataset you could do that on https://www.football-data.co.uk but ill probably send you my already edited dataset, find me on soliiyubinb@gmail.com
+so if you want to verify or get the dataset you could do that on https://www.football-data.co.uk but ill probably send you my already edited dataset, find me on soliiyubinb@gmail.com and yubin@vivaalife.org
