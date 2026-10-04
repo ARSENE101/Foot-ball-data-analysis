@@ -17,7 +17,7 @@ The objective is not to predict individual match results, but to investigate whe
 
 ## The Idea
 
-Instead of looking at points tables alone, this project transforms match outcomes into a simplified momentum visualization inspired by financial trading charts, why financial trading charts? well my trading background maybe a factor but also i found it rather helpful in pattern discovery maybe my eyes got the hang of seeing patterns in colour as them chart show.
+Instead of looking at points tables alone(Still one of the best metrics we have), this project transforms match outcomes into a simplified momentum visualization inspired by financial trading charts, why financial trading charts? well my trading background maybe a factor but also i found it rather helpful in pattern discovery maybe my eyes got the hang of seeing patterns in colour as them chart show.
 
 Each match updates the team's trend according to three simple rules:
 
@@ -28,12 +28,12 @@ Each match updates the team's trend according to three simple rules:
 By plotting these movements throughout the season, consistent performance patterns become easier to observe.
 
 My hypothesis is that by the middle of the season, many teams that eventually finish in the league's top positions already display a characteristic momentum pattern.
-
+That is not the entirety of the project as i went further to build a model that could determine prem league positions of its own according to a particular period of time.
 ---
 
 ## Data Source
 
-Historical football match data was collected from publicly available datasets covering Europe's five major football leagues.
+Historical football match data was collected from publicly available datasets covering Europe's five major football leagues, but i start with the prem.
 
 The CSV datasets included in this repository are derived from publicly available football statistics.
 
@@ -103,7 +103,7 @@ Future work includes:
 - probability scoring
 - machine learning experiments
 - most importantly predicting likely events in a match for example, the over , under metric for cards, fouls, corners, etc
-
+I know very ambitious but it will be dealt a step at a time.
 ---
 
 ## Future Vision
