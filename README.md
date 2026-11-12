@@ -7,7 +7,7 @@
 
 ## Project Overview
 
-Football teams rarely perform randomly over the course of a season. Some clubs establish consistency early, while others fluctuate before eventually dropping off, i am investigating the confidence level that can be gotten from overall perfomance early on to predict the top clubs.
+Football teams rarely perform randomly over the course of a season as most of us know already. Some clubs establish consistency early, while others fluctuate before eventually dropping off, i am investigating the confidence level that can be gotten from overall perfomance early on to predict the top clubs thats basically it you could stop reading from here if you already get it and check out the model i built for this.
 
 This project explores whether a recurring performance pattern can be identified during the middle stages of a football season that is commonly shared by teams finishing in the league's top positions.
 
